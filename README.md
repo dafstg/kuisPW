@@ -1,6 +1,6 @@
-#KUIS PEMWEB LAB 1 
+# KUIS PEMWEB LAB 1 
 ### Membuat Web Todo List berbasis React.js untuk membantu dalam organisasi tugas
-##FITUR
+## FITUR
 ## TAMPILAN AWAL
 <img width="692" height="335" alt="image" src="https://github.com/user-attachments/assets/7615629e-66b0-4383-92e7-9d81a7141633" />
 
